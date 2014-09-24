@@ -1,5 +1,7 @@
 function salutation()
 {
-	 alert("Bienvenue sur ma page html");
+	message ="Bienvenue sur ma page html";
+	 alert(message);
+
 
 }
